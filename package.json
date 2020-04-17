@@ -1,0 +1,17 @@
+{
+  "name": "i3-nodebar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "moment-timezone": "^0.5.23",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
